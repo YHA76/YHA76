@@ -4,8 +4,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
-<h3 align="center">Un développeur frontend passionné originaire de l'Inde</h3>
-
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yahya-benali" target="blank">
